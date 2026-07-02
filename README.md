@@ -43,7 +43,7 @@
 
 ```yaml
 Name      : Prajwal K
-Role      : 🚀 Aspiring Software Engineer | Full Stack Developer | React Native | Cybersecurity Enthusiast
+Role      : Aspiring Software Engineer | Full Stack Developer | React Native 
 Location  : Mangalore, Karnataka 🇮🇳
 Education : MCA (2024–2026)
 College   : Srinivas Institute of Technology
