@@ -34,9 +34,6 @@
 <td width="60%" valign="top">
 
 ## 👨‍💻 Who Am I?
-
-### ⚡ Animated Developer Profile
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;React+Native+Developer;Python+%7C+Flask+Developer;Cybersecurity+Enthusiast"/>
 </p>
