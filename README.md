@@ -60,8 +60,7 @@ Current Focus:
 
 ---
 
-### 🚀 Engineering Mindset (Live Animation)
-
+### 🚀 Engineering Mindset 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=650&lines=Think+Like+An+Engineer;Build+Scalable+Systems;Write+Clean+Code;Solve+Real+Problems;Ship+Production+Apps+🚀"/>
 </p>
