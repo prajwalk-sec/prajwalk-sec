@@ -1,59 +1,117 @@
-## 👨‍💻 Who Am I?
+<h1 align="center">Hi 👋, I'm Prajwal K</h1>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • React Native Developer • Python Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer;React+Native+Developer;Full+Stack+Developer;Python+%7C+Flask+Developer;Cybersecurity+Enthusiast"/>
+MCA Student | Backend + Mobile Developer | Cyber Security Enthusiast
 </p>
 
-<table align="center">
-<tr>
-
-<td width="60%" valign="top">
-
-### ⚡ Developer Profile
-
-```yaml
-Name      : Prajwal K
-Role      : Software Engineer
-Location  : Mangalore, Karnataka 🇮🇳
-Education : MCA (2024–2026)
-College   : Srinivas Institute of Technology
-
-Passion:
-  - Full Stack Development
-  - React Native Development
-  - Python & Flask
-  - Cyber Security
-
-Current Focus:
-  - Building Production Ready Applications
-  - Mobile App Development
-  - Threat Intelligence
-  - DSA & System Design
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajwalk-sec&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-### 🚀 Live Mindse
+## 🚀 About Me
+
+I am a **Software Engineer focused on building scalable web and mobile applications** using modern technologies like **React, React Native, Flask, and Node.js**.
+
+I enjoy solving real-world problems, designing secure backend systems, and building clean user experiences.
+
+- 🎓 MCA Student (2024–2026)
+- 📍 Mangalore, Karnataka
+- 💻 Full Stack Developer
+- 📱 React Native Developer
+- 🐍 Python / Flask Backend Developer
+- 🛡️ Cyber Security Enthusiast
+
+---
+
+## 💼 Experience Focus
+
+- Full Stack Web Development (React + Node + Flask)
+- Mobile App Development (React Native)
+- REST API Design & Development
+- Database Design (MySQL, MongoDB, SQLite)
+- Basic Cyber Security & Threat Analysis
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+- Python, JavaScript, HTML, CSS
+
+**Frontend**
+- React.js, React Native
+
+**Backend**
+- Flask, Node.js, Express.js
+
+**Databases**
+- MySQL, MongoDB, SQLite
+
+**Tools**
+- Git, GitHub, VS Code, Postman
+
+---
+
+## 🚀 Projects
+
+### 🔒 Threat Intelligence Platform
+- Real-time cyber threat monitoring dashboard
+- Built with React.js + Flask
+- Features: Threat Map, Risk Analysis, Live Feed
+- Secure REST APIs with modular backend design
+
+---
+
+### 🏥 Healthcare Management System
+- Full-stack hospital management system
+- Role-based authentication
+- Patient data management system
+- Built using React.js + Node.js + MongoDB
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=650&lines=Build+Something+Every+Day;Learn+Something+New;Improve+Yourself+Constantly;Think+Like+An+Engineer;Ship+Real+Projects+🚀"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalk-sec&show_icons=true&theme=default"/>
 </p>
 
-</td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalk-sec&layout=compact"/>
+</p>
 
-<td width="40%" align="center">
+---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
+## 🏆 Certifications
 
-<br><br>
+- Cyber Security & Ethical Hacking Internship (16 Weeks)
+- Python Full Stack Development Internship (10 Weeks)
+- Zero Trust Cloud Security – Zscaler
+- Machine Learning with Python – IBM
+- Cloud Computing Architecture – Great Learning
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajwalk-sec&show_icons=true&theme=tokyonight&hide_border=true"/>
+---
 
-<br><br>
+## 📫 Contact
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalk-sec&theme=tokyonight&hide_border=true"/>
+- 📧 Email: prajwaladkar279@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/prajwalkamalaksha  
+- 💻 GitHub: github.com/prajwalk-sec  
 
-</td>
+---
 
-</tr>
-</table>
+## 🎯 Career Objective
+
+To contribute as a **Software Engineer in a product-based company**, building scalable systems, improving performance, and solving real-world engineering problems.
+
+---
+
+<p align="center">
+⭐ Focused on writing clean code, scalable systems, and real impact ⭐
+</p>
