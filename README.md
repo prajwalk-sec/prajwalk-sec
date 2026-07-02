@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prajwal+K;Software+Engineer+💻;React+Native+Developer+📱;Full+Stack+Developer+🚀;Python+Developer+🐍;Cybersecurity+Enthusiast+🛡️;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prajwal+K;Software+Engineer+💻;React+Native+Developer+📱;Full+Stack+Developer+🚀;Python+Developer+🐍;Cybersecurity+Enthusiast+🛡️;Always+Learning+New+Things+🚀" />
 </h1>
 
 <p align="center">
@@ -10,16 +10,18 @@
   <a href="https://github.com/prajwalk-sec">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://linkedin.com/in/prajwalkamalaksha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:prajwaladkar279@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalk-sec&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=prajwalk-sec&label=Profile%20Views&color=00F7F7&style=for-the-badge"/>
 </p>
 
 ---
@@ -36,7 +38,7 @@
 ### ⚡ Animated Developer Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;React+Native+Developer;Python+%7C+Flask+Developer;Cybersecurity+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=600&color=00F7F7&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;React+Native+Developer;Python+%7C+Flask+Developer;Cybersecurity+Enthusiast"/>
 </p>
 
 ```yaml
@@ -64,16 +66,16 @@ Current Focus:
 ### 🚀 Engineering Mindset
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=650&lines=Think+Like+An+Engineer;Build+Scalable+Systems;Write+Clean+Code;Solve+Real+Problems;Ship+Production+Apps+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=1800&pause=500&color=00F7F7&center=true&vCenter=true&width=650&lines=Think+Like+An+Engineer;Build+Scalable+Systems;Write+Clean+Code;Solve+Real+Problems;Ship+Production+Apps+🚀"/>
 </p>
 
 ### 💡 A Little About Me
 
 - 🚀 Passionate about building modern **Web & Mobile Applications**
-- 📱 React Native Developer
-- 💻 Full Stack Developer (React, Flask, Node.js)
-- 🛡️ Cyber Security & Threat Intelligence Enthusiast
-- 🌱 Improving DSA + System Design
+- 📱 React Native Developer creating cross-platform apps
+- 💻 Full Stack Developer with React.js, Flask, Node.js & MongoDB
+- 🛡️ Cyber Security & Threat Intelligence enthusiast
+- 🌱 Learning DSA & System Design
 - 🎯 Goal: Become a top software engineer
 
 </td>
@@ -109,7 +111,7 @@ Current Focus:
 
 ---
 
-## 🛡️ Cyber Security Focus
+## 🛡️ Cyber Security
 
 ```text
 🔐 Ethical Hacking
@@ -122,38 +124,24 @@ Current Focus:
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajwalk-sec&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalk-sec&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalk-sec&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="750"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/prajwalk-sec">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/prajwalkamalaksha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prajwaladkar279@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:00F7FF"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:00F7F7"/>
+
 </p>
