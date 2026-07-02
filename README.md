@@ -1,131 +1,117 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prajwal+K;Software+Engineer+💻;React+Native+Developer+📱;Full+Stack+Developer+🚀;Python+Developer+🐍;Cybersecurity+Enthusiast+🛡️;Always+Learning+New+Things+🚀" />
-</h1>
+<h1 align="center">Hi 👋, I'm Prajwal K</h1>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • React Native Developer • Python Developer
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+MCA Student | Backend + Mobile Developer | Cyber Security Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://github.com/prajwalk-sec">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/prajwalkamalaksha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:prajwaladkar279@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalk-sec&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=prajwalk-sec&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<table>
-<tr>
+I am a **Software Engineer focused on building scalable web and mobile applications** using modern technologies like **React, React Native, Flask, and Node.js**.
 
-<td width="60%" valign="top">
+I enjoy solving real-world problems, designing secure backend systems, and building clean user experiences.
 
-## 👨‍💻 Who Am I?
-
-```yaml
-Name      : Prajwal K
-Role      : Software Engineer
-Location  : Mangalore, Karnataka 🇮🇳
-Education : MCA (2024–2026)
-College   : Srinivas Institute of Technology
-
-Passion:
-  - Full Stack Development
-  - React Native Development
-  - Python & Flask
-  - Cyber Security
-
-Current Focus:
-  - Building Production Ready Applications
-  - Mobile App Development
-  - Threat Intelligence
-  - DSA & System Design
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=900&color=00F7FF&width=550&lines=🚀+Building+Scalable+Applications;📱+React+Native+Developer;💻+Full+Stack+Developer;🐍+Python+%7C+Flask+Developer;🔐+Cybersecurity+Enthusiast;⚡+Always+Learning+New+Technologies"/>
-
-### 💡 A Little About Me
-
-- 🚀 Passionate about building modern **Web & Mobile Applications**
-- 📱 React Native Developer creating cross-platform apps
-- 💻 Full Stack Developer with **React.js, Flask, Node.js & MongoDB**
-- 🛡️ Interested in **Cyber Security & Threat Intelligence**
-- 🌱 Currently learning **Advanced React Native, DSA & System Design**
-- 🎯 Goal: **Become a Top Software Engineer and Build Products That Matter**
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prajwalk-sec&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalk-sec&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalk-sec&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
+- 🎓 MCA Student (2024–2026)
+- 📍 Mangalore, Karnataka
+- 💻 Full Stack Developer
+- 📱 React Native Developer
+- 🐍 Python / Flask Backend Developer
+- 🛡️ Cyber Security Enthusiast
 
 ---
 
-## 💻 Tech Stack
+## 💼 Experience Focus
+
+- Full Stack Web Development (React + Node + Flask)
+- Mobile App Development (React Native)
+- REST API Design & Development
+- Database Design (MySQL, MongoDB, SQLite)
+- Basic Cyber Security & Threat Analysis
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+- Python, JavaScript, HTML, CSS
+
+**Frontend**
+- React.js, React Native
+
+**Backend**
+- Flask, Node.js, Express.js
+
+**Databases**
+- MySQL, MongoDB, SQLite
+
+**Tools**
+- Git, GitHub, VS Code, Postman
+
+---
+
+## 🚀 Projects
+
+### 🔒 Threat Intelligence Platform
+- Real-time cyber threat monitoring dashboard
+- Built with React.js + Flask
+- Features: Threat Map, Risk Analysis, Live Feed
+- Secure REST APIs with modular backend design
+
+---
+
+### 🏥 Healthcare Management System
+- Full-stack hospital management system
+- Role-based authentication
+- Patient data management system
+- Built using React.js + Node.js + MongoDB
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,flask,mongodb,mysql,sqlite,html,css,git,github,vscode,postman&perline=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalk-sec&show_icons=true&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalk-sec&layout=compact"/>
 </p>
 
 ---
 
-## 🛡️ Cyber Security
+## 🏆 Certifications
 
-```text
-🔐 Ethical Hacking
-🌐 Threat Intelligence
-🔍 Vulnerability Assessment
-🛡️ Network Security
-☁️ Zero Trust Security
-🚨 Risk Analysis
-```
+- Cyber Security & Ethical Hacking Internship (16 Weeks)
+- Python Full Stack Development Internship (10 Weeks)
+- Zero Trust Cloud Security – Zscaler
+- Machine Learning with Python – IBM
+- Cloud Computing Architecture – Great Learning
+
+---
+
+## 📫 Contact
+
+- 📧 Email: prajwaladkar279@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/prajwalkamalaksha  
+- 💻 GitHub: github.com/prajwalk-sec  
+
+---
+
+## 🎯 Career Objective
+
+To contribute as a **Software Engineer in a product-based company**, building scalable systems, improving performance, and solving real-world engineering problems.
 
 ---
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="750"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
+⭐ Focused on writing clean code, scalable systems, and real impact ⭐
 </p>
